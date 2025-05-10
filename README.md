@@ -27,3 +27,4 @@ This project builds a machine learning pipeline to detect bot accounts on VK.com
 ### 1. Install Dependencies
 ```bash
 pip install pandas scikit-learn matplotlib joblib
+python main.py
